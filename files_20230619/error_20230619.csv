@@ -1,0 +1,6 @@
+subjectId,error_message
+yes1,"[{'type': 'input-validation', 'message': '""subjectIds"" is required', 'field': 'subjectIds'}]"
+yes2,"[{'type': 'input-validation', 'message': '""subjectIds"" is required', 'field': 'subjectIds'}]"
+yes3,"[{'type': 'input-validation', 'message': '""subjectIds"" is required', 'field': 'subjectIds'}]"
+tod1,"[{'type': 'input-validation', 'message': '""subjectIds"" is required', 'field': 'subjectIds'}]"
+tod2,"[{'type': 'input-validation', 'message': '""subjectIds"" is required', 'field': 'subjectIds'}]"
